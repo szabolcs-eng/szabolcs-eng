@@ -6,13 +6,13 @@
 - ⚡ I'm passionate about building innovative software solutions and exploring machine learning models.
 
 ### 🛠 Tech Stack
-- **Languages:** [pl. Java, Python, C++, SQL]
-- **AI & Data:** [pl. Pandas, Scikit-learn, TensorFlow]
-- **Tools & Platforms:** Git, Linux, [pl. Docker, VS Code]
+- **Languages:** Python, C#, SQL
+- **AI & Data:** Pandas, Scikit-learn, TensorFlow
+- **Tools & Platforms:** Git, VS Code
 
 ### 🌐 Connect with me
-- **LinkedIn:** [Ide másold a LinkedIn linkedet]
-- **Email:** [Ide az e-mail címedet]
+- **LinkedIn:** https://www.linkedin.com/in/szabolcs-páncél-581073211/?originalSubdomain=hu
+- **Email:** pancelszabolcs@gmail.com
 
 ---
 *“The best way to predict the future is to create it.”*
