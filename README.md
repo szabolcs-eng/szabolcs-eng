@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Szabolcs
 
-<!--
-**szabolcs-eng/szabolcs-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🔭 I’m currently a **Computer Science Engineering student** at **Obuda University**.
+- 🌱 I’m currently focusing on **Software Development** and **Artificial Intelligence**.
+- ⚡ I'm passionate about building innovative software solutions and exploring machine learning models.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** [pl. Java, Python, C++, SQL]
+- **AI & Data:** [pl. Pandas, Scikit-learn, TensorFlow]
+- **Tools & Platforms:** Git, Linux, [pl. Docker, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+- **LinkedIn:** [Ide másold a LinkedIn linkedet]
+- **Email:** [Ide az e-mail címedet]
+
+---
+*“The best way to predict the future is to create it.”*
