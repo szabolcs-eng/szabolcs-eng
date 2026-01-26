@@ -11,7 +11,7 @@
 - **Tools & Platforms:** Git, VS Code
 
 ### 🌐 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/szabolcs-páncél-581073211/?originalSubdomain=hu
+- **LinkedIn:** https://www.linkedin.com/in/szabolcs-páncél-581073211
 - **Email:** pancelszabolcs@gmail.com
 
 ---
