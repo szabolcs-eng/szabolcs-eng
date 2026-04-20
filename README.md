@@ -8,11 +8,9 @@
 ### 🛠 Tech Stack
 - **Languages:** Python, C#, SQL
 - **AI & Data:** Pandas, Scikit-learn
-- **Tools & Platforms:** Git, VS Code
+- **Tools & Platforms:** Git, VS Code, Visual Studio
 
 ### 🌐 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/szabolcs-páncél-581073211
 - **Email:** pancelszabolcs@gmail.com
 
----
-*“The best way to predict the future is to create it.”*
