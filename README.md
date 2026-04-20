@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 - **Languages:** Python, C#, SQL
-- **AI & Data:** Pandas, Scikit-learn, TensorFlow
+- **AI & Data:** Pandas, Scikit-learn
 - **Tools & Platforms:** Git, VS Code
 
 ### 🌐 Connect with me
